@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerController", "PowerController.csproj", "{FF94E970-FAD4-4939-BB0E-EB5ACFC7FFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF94E970-FAD4-4939-BB0E-EB5ACFC7FFCA}.Debug|x64.ActiveCfg = Debug|x64
+		{FF94E970-FAD4-4939-BB0E-EB5ACFC7FFCA}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6155CCB-AC14-4894-902A-215E623386D6}
+	EndGlobalSection
+EndGlobal

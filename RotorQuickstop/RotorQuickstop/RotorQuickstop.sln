@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotorQuickstop", "RotorQuickstop.csproj", "{F92CF25E-90F2-4AAC-AC85-BEFCD6B98CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92CF25E-90F2-4AAC-AC85-BEFCD6B98CDA}.Debug|x64.ActiveCfg = Debug|x64
+		{F92CF25E-90F2-4AAC-AC85-BEFCD6B98CDA}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E9208F-A2E5-44EE-8A9D-691AC10A6782}
+	EndGlobalSection
+EndGlobal
